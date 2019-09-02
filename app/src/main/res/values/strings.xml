@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alarm Test</string>
+    <string name="reply_label">Dismiss</string>
+</resources>
